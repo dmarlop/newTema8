@@ -1,4 +1,4 @@
-package diapositivas;
+package tema8;
 
 public class Main {
 
